@@ -3,7 +3,10 @@ Analyzing  the data from 2008-2019
 Airbnb as in ‘Air in Bed and Breakfast’ is an online business where the property owners rent out-
 their spaces to people looking for a place to stay. Airbnb offers travellers an easy, relatively stress-
 free way to earn some income from their property. 
-![image](https://user-images.githubusercontent.com/107872228/210801320-08d4e893-8323-451e-bda9-91fdb4f93bca.png)
+
+
+![image](https://user-images.githubusercontent.com/107872228/210801467-4fa40477-d5af-42f4-8be3-bd39817d10a4.png)
+
 
 In the Airbnb NYC 2019 dataset we were provided with 16 features i.e., id, name, host_id, host_name, neighbourhood_group, neighbourhood,
 latitude, longitude, room_type, price, minimum_nights, number_of_reviews, last_review,
